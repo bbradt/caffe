@@ -21,5 +21,5 @@ if [ ! -d "$DIR" ]; then
     mkdir $DIR
 fi
 mv yt_allframes_vgg_fc7_val.txt $DIR"/"
-mv yt_coco_mvad_mpiimd_vocabulary.txt $DIR"/
+mv yt_coco_mvad_mpiimd_vocabulary.txt $DIR"/"
 echo "Done."
